@@ -1,6 +1,6 @@
 <!-- Header Banner (optional) -->
 <p align="center">
-  <img src="https://github.com/your-username/your-username/assets/banner.png" alt="Data Analyst Banner" width="100%">
+  <img src="C:\Users\Administrator\Downloads\github-header-banner.png" alt="Data Analyst Banner" width="100%">
 </p>
 
 <h1 align="center">Hi there 👋, I'm [Kalyani Pawar]</h1>
