@@ -1,12 +1,12 @@
 <!-- Header Banner (optional) -->
-![logo](https://github.com/KalyaniPawar-des/KalyaniPawar-des/blob/main/github-header-banner.png)
+![logo](https://github.com/KalyaniPawar-des/KalyaniPawar-des/blob/main/github-header-banner%20(2).png)
 
-<h1 align="center">Hi there 👋, I'm [Kalyani Pawar]</h1>
+---
+- 🔭 I’m currently working on **Institute Management System in SQL**
 
-<p align="center">
-  <b>Data Analyst | Python • PostgreSQL • Power BI</b><br>
-  Turning data into insights that drive action.
-</p>
+- 👨‍💻 All of my projects are available at [KalyaniPawar-des](KalyaniPawar-des)
+
+- 📫 How to reach me **kalyanipawar202@gmail.com**
 
 ---
 
@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ---
@@ -37,10 +36,10 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalyanipawar-des&show_icons=true&locale=en&layout=compact" alt="kalyanipawar-des" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalyanipawar-des&show_icons=true&locale=en" alt="kalyanipawar-des" /></p>
+
 
 ---
 
