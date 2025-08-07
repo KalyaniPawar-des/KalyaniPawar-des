@@ -1,6 +1,6 @@
 <!-- Header Banner (optional) -->
 <p align="center">
-  <img src="C:\Users\Administrator\Downloads\github-header-banner.png" alt="Data Analyst Banner" width="100%">
+  <img src="https://www.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_172419727.htm#fromView=search&page=1&position=1&uuid=11e076b7-9485-4592-a484-3445ec5d912e&query=Github+Cover+foe+data+analyst" alt="Data Analyst Banner" width="100%">
 </p>
 
 <h1 align="center">Hi there 👋, I'm [Kalyani Pawar]</h1>
