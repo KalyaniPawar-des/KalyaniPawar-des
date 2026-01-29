@@ -75,10 +75,6 @@ Results-driven **Data Analyst** with 2+ years of hands-on experience in transfor
 
 ![Kalyani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KalyaniPawar-des&show_icons=true&hide_rank=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KalyaniPawar-des&layout=compact&theme=default)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=KalyaniPawar-des&theme=default)
-
 
 ## 🎯 What I’m Looking For
 - Data Analyst / BI Analyst opportunities  
