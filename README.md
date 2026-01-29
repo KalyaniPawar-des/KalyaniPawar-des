@@ -71,11 +71,9 @@ Results-driven **Data Analyst** with 2+ years of hands-on experience in transfor
 ---
 
 ## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_rank=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalyanipawar-des&show_icons=true&locale=en&layout=compact" alt="kalyanipawar-des" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalyanipawar-des&show_icons=true&locale=en" alt="kalyanipawar-des" /></p>
----
 
 
 ## 🎯 What I’m Looking For
@@ -94,4 +92,4 @@ Results-driven **Data Analyst** with 2+ years of hands-on experience in transfor
 
 ---
 
-<p align="center">💡 <i>⭐ If you like my work, feel free to **star** ⭐ the repositories!</i></p>
+<p align="center"><i>⭐ If you like my work, feel free to **star** ⭐ the repositories!</i></p>
