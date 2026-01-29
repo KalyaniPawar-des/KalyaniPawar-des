@@ -45,21 +45,23 @@ Results-driven **Data Analyst** with 2+ years of hands-on experience in transfor
 
 ---
 
-### 🏦 Banking & Finance Dashboard
-**Tools:** Power BI, PostgreSQL  
-- Designed KPIs for transactions, customer behavior, and account performance  
-- Used advanced SQL joins and aggregations  
-- Implemented clean star schema modeling  
+### 🏦 Banking Data Analysis Dashboard
+**Tools:** Power BI, PostgreSQL, Perplexity
+- Power BI Desktop
+- Power Query Editor (Data Cleaning & Transformation)
+- DAX (Calculated measures & KPIs)
+- Relational Data Model (Fact & Dimension tables)
+- Perplexity(Generates realistic, business-like datasets)
 
 ---
 
-### 📈 Sales & Performance Analytics
-**Tools:** Power BI, SQL  
-- Year-over-Year (YoY) growth analysis  
-- Automated reporting and reduced manual effort  
-- Delivered actionable insights to stakeholders  
-
-
+### 🏏 ESPN Cricket Analytics – Power BI Dashboard
+**Tools:**
+* Power BI Desktop – Data modeling & visualization
+* Power Query Editor – Data cleaning & transformation
+* DAX – Measures & KPIs
+* ESPN Stats (CSV / PDF) – Source data(Web-Scraping)
+  
 > 🔗 *More coming soon! Check back for updates.*
 ---
 
