@@ -72,16 +72,12 @@ Results-driven **Data Analyst** with 2+ years of hands-on experience in transfor
 
 ## 📈 GitHub Stats
 
-<!-- GitHub activity stats -->
+
 ![Kalyani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KalyaniPawar-des&show_icons=true&hide_rank=true&theme=default)
 
-<!-- Top languages used -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KalyaniPawar-des&layout=compact&theme=default)
 
-<!-- Optional streak for consistency -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=KalyaniPawar-des&theme=default)
-
-
 
 
 ## 🎯 What I’m Looking For
