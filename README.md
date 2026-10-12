@@ -72,7 +72,7 @@ Results-driven **Data Analyst** with 3 years of hands-on experience in transform
 - ✔️ Proper documentation & data models
 ---
 
-## 📈 GitHub Stats
+
 
 
 
