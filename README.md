@@ -1,7 +1,7 @@
 <!-- Header Banner (optional) -->
 ![logo](https://github.com/KalyaniPawar-des/KalyaniPawar-des/blob/main/github-header-banner%20(2).png)
 
-Results-driven **Data Analyst** with 2+ years of hands-on experience in transforming raw data into meaningful business insights. Skilled in building interactive dashboards, optimizing SQL queries, and working with data warehouse environments to support data-driven decision-making.
+Results-driven **Data Analyst** with 3 years of hands-on experience in transforming raw data into meaningful business insights. Skilled in building interactive dashboards, optimizing SQL queries, and working with data warehouse environments to support data-driven decision-making.
 
 ---
 
@@ -75,8 +75,6 @@ Results-driven **Data Analyst** with 2+ years of hands-on experience in transfor
 ## 📈 GitHub Stats
 
 
-![Kalyani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KalyaniPawar-des&show_icons=true&hide_rank=true&theme=default)
-
 
 ## 🎯 What I’m Looking For
 - Data Analyst / BI Analyst opportunities  
@@ -87,8 +85,8 @@ Results-driven **Data Analyst** with 2+ years of hands-on experience in transfor
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kalyanipaward/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kalyanipawar202.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kalyanipawar2809@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
